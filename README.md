@@ -12,6 +12,7 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
 
+
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>](https://github.com/AafaqAhmed6296) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/afaqsaqi/)
