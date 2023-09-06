@@ -15,7 +15,7 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
-[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>](https://github.com/AafaqAhmed6296) 
+[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>](https://github.com/afaqsaqi) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/afaqsaqi/)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aaf.u.u//) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/afaq_saqi)
