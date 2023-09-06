@@ -1,5 +1,5 @@
 
-![iOS Developer](https://github.com/afaqsaqi/afaqsaqi/blob/main/Header.png)
+![iOS Developer](https://github.com/afaqsaqi/afaqsaqi/blob/main/profile-Banner.png)
 # Aafaq Ahmed Saqi
 I am an experienced iOS developer who enjoys working with Swift, Python, and JavaScript. In addition to my development skills, I actively contribute to the tech community by writing articles on iOS-related topics on Medium. As a full-time freelancer, I am passionate about staying at the forefront of emerging technologies, including CoreML for machine learning and ARKit for augmented reality. My expertise extends beyond iOS, containing a wide range of skills and knowledge in the tech world.
 
