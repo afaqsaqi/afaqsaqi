@@ -18,10 +18,3 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aaf.u.u//) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/afaq_saqi)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/stack-overflow%20(1).png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14268481/aafaq)  
-
-
-https://github.com/afaqsaqi/afaqsaqi/blob/main/django.svg
-https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script.png
-https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png
-
-[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>]
