@@ -21,4 +21,3 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/afaq_saqi)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/stack-overflow%20(1).png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14268481/aafaq)  
 
-https://github.com/afaqsaqi/afaqsaqi/blob/main/Header.png
