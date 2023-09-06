@@ -6,7 +6,7 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 ## Skills and Experience
 * 📱 iOS & ⌚️ WatchOS
 * ⚛️ React
-* [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script.png' height='25']
+* [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script.png' alt='github' height='40'>]
 * 🕊️ Swift
 * 🐍 Python
 * ☕️ Javascript
@@ -22,3 +22,5 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 
 https://github.com/afaqsaqi/afaqsaqi/blob/main/django.svg
 https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script.png
+
+[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>]
