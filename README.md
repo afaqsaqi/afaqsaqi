@@ -1,7 +1,7 @@
 
 ![iOS Developer](https://github.com/afaqsaqi/afaqsaqi/blob/main/Header.png)
 # Aafaq Ahmed Saqi
-I am an experienced iOS and Django Developer. I enjoy working on languages like swift, python and javascript. I also write articles on iOS on Medium. I am a full time freelancer and I am incredibly interested in emerging technologies like CoreML( for Machine Learning) and ARKit(for Augmented Reality).
+I am an experienced iOS developer who enjoys working with Swift, Python, and JavaScript. In addition to my development skills, I actively contribute to the tech community by writing articles on iOS-related topics on Medium. As a full-time freelancer, I am passionate about staying at the forefront of emerging technologies, including CoreML for machine learning and ARKit for augmented reality. My expertise extends beyond iOS, containing a wide range of skills and knowledge in the tech world.
 
 ## Skills and Experience
 * 📱 iOS & ⌚️ WatchOS
