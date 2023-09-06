@@ -11,15 +11,10 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 
 
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AafaqAhmed6296) 
+[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>](https://github.com/AafaqAhmed6296) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/afaqsaqi/)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aaf.u.u//) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/afaq_saqi)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/stack-overflow%20(1).png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14268481/aafaq)  
 
 
-
-
-https://github.com/afaqsaqi/afaqsaqi/blob/main/instagram.png
-https://github.com/afaqsaqi/afaqsaqi/blob/main/stack-overflow%20(1).png
-https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png
