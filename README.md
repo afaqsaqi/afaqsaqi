@@ -11,7 +11,8 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 * 🐍 Python
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
-
+## Portfolio
+<img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" width="256" />
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
