@@ -13,18 +13,12 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 
 ## Portfolio
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
-    <div style="flex: 1; text-align: center;">
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="200">
         <p>Description for Image 1</p>
-    </div>
-    <div style="flex: 2; text-align: center;">
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200">
         <p>Description for Image 2</p>
-    </div>
-    <div style="flex: 3; text-align: center;">
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 3" width="200">
         <p>Description for Image 3</p>
-    </div>
 </div>
 
 
