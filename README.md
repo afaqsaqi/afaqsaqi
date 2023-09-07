@@ -14,7 +14,7 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 ## Portfolio
 | FocusPower - Wellbeing              | Healthdoc - health and wellness     | PoliHop                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="300"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="300"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="300"> |
+| <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="33%"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="33%"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="33%"> |
 
 
 ## Connect with me
