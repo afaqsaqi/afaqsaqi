@@ -12,20 +12,23 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
 ## Portfolio
-<div >
-  <div >
-    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 1" width="256/>
-    <p>Description 1</p>
-  </div>
-  <div style="flex-basis: 30%; text-align: center;">
-    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 2" width="256/>
-    <p>Description 2</p>
-  </div>
-  <div style="flex-basis: 30%; text-align: center;">
-    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 3" width="256/>
-    <p>Description 3</p>
-  </div>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="200">
+        <p>Description for Image 1</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200">
+        <p>Description for Image 2</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 3" width="200">
+        <p>Description for Image 3</p>
+    </div>
 </div>
+
+
+https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
