@@ -14,7 +14,7 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 ## Portfolio
 | Cat pics                            | Dog pics                            | Lizzard                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="200"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200"> |
+| <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="256"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="256"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="256"> |
 
 
 
