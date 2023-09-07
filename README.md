@@ -12,7 +12,20 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
 ## Portfolio
-<img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" width="256" />
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex-basis: 30%; text-align: center;">
+    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 1" width="256/>
+    <p>Description 1</p>
+  </div>
+  <div style="flex-basis: 30%; text-align: center;">
+    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 2" width="256/>
+    <p>Description 2</p>
+  </div>
+  <div style="flex-basis: 30%; text-align: center;">
+    <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 3" width="256/>
+    <p>Description 3</p>
+  </div>
+</div>
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
