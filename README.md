@@ -12,8 +12,8 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
 ## Portfolio
-<div style="display: flex; justify-content: space-between; width: 808px">
-  <div style="flex-basis: 30%; text-align: center;">
+<div >
+  <div >
     <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Alt Text 1" width="256/>
     <p>Description 1</p>
   </div>
