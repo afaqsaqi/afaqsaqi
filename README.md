@@ -23,6 +23,6 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/github.png' alt='github' height='40'>](https://github.com/afaqsaqi) 
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/icons8-linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/afaqsaqi/)
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/aaf.uu//) 
-[<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/afaq_saqi)
+<!-- [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/afaq_saqi) -->
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/stack-overflow%20(1).png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14268481/aafaq)  
 
