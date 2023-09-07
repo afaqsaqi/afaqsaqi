@@ -12,23 +12,10 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 * <img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/java-script%20(1).png' alt='github' height='20'> Javascript
 
 ## Portfolio
-| Cat pics                            | Dog pics                            | Lizzard                                     |
+| FocusPower - Wellbeing              | Healthdoc - health and wellness     | PoliHop                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="300"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="300"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="300"> |
 
-
-
-<div style="display: flex; flex-direction: column; justify-content: space-between;">
-        
-<!--         <p>Description for Image 1</p> -->
-        <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200">
-<!--         <p>Description for Image 2</p> -->
-        <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 3" width="200">
-<!--         <p>Description for Image 3</p> -->
-</div>
-
-
-https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
