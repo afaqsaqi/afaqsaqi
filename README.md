@@ -14,11 +14,11 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 ## Portfolio
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 1" width="200">
-        <p>Description for Image 1</p>
+<!--         <p>Description for Image 1</p> -->
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 2" width="200">
-        <p>Description for Image 2</p>
+<!--         <p>Description for Image 2</p> -->
         <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/fp.gif" alt="Image 3" width="200">
-        <p>Description for Image 3</p>
+<!--         <p>Description for Image 3</p> -->
 </div>
 
 
