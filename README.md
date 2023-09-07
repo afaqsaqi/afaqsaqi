@@ -16,6 +16,8 @@ I am an experienced iOS developer who enjoys working with Swift, Python, and Jav
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/Healthdoc.gif" alt="Image 2" width="256"> | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/FocusPower1080.gif" alt="Image 1" width="256">  | <img src="https://github.com/afaqsaqi/afaqsaqi/blob/main/PoliHop.gif" alt="Image 2" width="256"> |
 
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqsaqi&show_icons=true)  
 
 ## Connect with me
 [<img src='https://github.com/afaqsaqi/afaqsaqi/blob/main/medium.png' alt='stackoverflow' height='40'>](https://medium.com/@afaqsaqi)
